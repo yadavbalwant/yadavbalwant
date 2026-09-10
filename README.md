@@ -33,7 +33,7 @@
   - I enjoy yoga, reading books, quotes, and capturing nature.
 </details>
 
-## 🛠️ Tech Stack
+
 
 ## 🛠️ Tech Stack
 
