@@ -1,10 +1,91 @@
-<h1 align="center"> Namaste <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Waving%20hand/3D/waving_hand_3d.png" width="35" height="35" alt="wave" style="margin-bottom: -5px;" /> , I'm Balwant Kumar </h1> <h3 align="center">A passionate Data Analyst from India</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=yadavbalwant&label=Profile%20views&color=0e75b6&style=flat" alt="yadavbalwant" /> </p>
-🌱 I'm currently learning Python, SQL, Power BI, Machine Learning & Data Analytics
-👯 I'm looking to collaborate on Data Analytics & Dashboard Projects
-🤝 I'm looking for help with Data Analytics, Python & Machine Learning Projects
-💬 Ask me about Python, SQL, Excel, Data Analytics & React Dashboards
-📫 How to reach me balwant3111@gmail.com
-📄 Know about my experiences https://drive.google.com/file/d/1j-zL2Ec1of8LqQ87yQQqRrVUz7g76k4V/view?usp=sharing
-⚡ Fun fact I enjoy turning raw data into simple and useful insights.
-<h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://twitter.com/@balwant_yadav31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@balwant_yadav31" height="30" width="40" style="margin: 0 10px;" /></a> <a href="https://linkedin.com/in/balwant-kumar31/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="balwant-kumar31/" height="30" width="40" style="margin: 0 10px;" /></a> <a href="https://instagram.com/balwant.yadav31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="balwant.yadav31" height="30" width="40" style="margin: 0 10px;" /></a> <a href="https://www.leetcode.com/balwantkumaryadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="balwantkumaryadav" height="30" width="40" style="margin: 0 10px;" /></a> </p> <h3 align="left">Languages and Tools:</h3> <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="margin: 0 12px;"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="margin: 0 12px;"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin: 0 12px;"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="margin: 0 12px;"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="margin: 0 12px;"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" style="margin: 0 12px;"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin: 0 12px;"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" style="margin: 0 12px;"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" style="margin: 0 12px;"/> </a> </p> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yadavbalwant&show_icons=true&locale=en&layout=compact" alt="yadavbalwant" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yadavbalwant&show_icons=true&locale=en" alt="yadavbalwant" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yadavbalwant&" alt="yadavbalwant" /></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3500&pause=2000&color=D4AF37&center=true&vCenter=true&width=700&lines=Namaste!+I+am+Balwant+Kumar" alt="Typing SVG" /></a></p>
 
+<!--
+- 🎓 I’m a **Final-Year Computer Science student** at **IIT Patna**.
+- 📚 I’m focused on **Data Analytics**, **Python**,**SQL** and **Data Visualization**.
+- 🐍 I’m currently improving my skills in Python, Pandas, Statistics, and Machine Learning.
+- 📧 Email: [sakshi.mtp461@gmail.com](mailto:sakshi.mtp461@gmail.com)
+- ⚡ Fun Fact: **It's GPT era!** -->
+<div align="center">
+<h2> 💻 About Me </h2>
+
+</div>
+
+  - 🎓 I’m a **Final-Year Computer Science student** at **IIT Patna**.
+  - 🐍 I’m currently improving my skills in Python, Pandas, Statistics, and Machine Learning
+
+<!-- <details>
+  <summary>🧑‍💻 My Coding Journey </summary>
+	
+  - **Building projects to strengthen my Python, SQL, Data Analytics, and Web Development skills. .**
+    
+</details> -->
+
+<details>
+  <summary>🧑‍💻 My Coding Journey</summary>
+	
+  - **160+ days** of consistent problem-solving on GeeksforGeeks (GFG).
+    
+</details>
+
+<details>
+  <summary>🌍 Outside Tech</summary>
+  - I enjoy yoga, reading books, quotes, and capturing nature.
+</details>
+
+## 🛠️ Tech Stack
+
+## 🛠️ Tech Stack
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+</div>
+
+
+## 🛠 Skills & Tools
+
+<table>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="60"/><br><b>C</b></td>
+
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="60"/><br><b>Python</b></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" height="60"/><br><b>Jupyter</b></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="60"/><br><b>HTML</b></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="60"/><br><b>CSS</b></td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="60"/><br><b>Pandas</b></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="60"/><br><b>NumPy</b></td>
+<td align="center"><img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-notext.svg" height="60"/><br><b>Scikit-Learn</b></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="60"/><br><b>VS Code</b></td>
+</tr>
+</table>
+
+
+<h3 align="left">🌐 Connect with me:</h3>
+<p align="left">
+<a href="https://https://linkedin.com/in/balwant-kumar31/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+<a href="https://www.kaggle.com/wantbal31" target="blank">
+  <img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle"/>
+</a>
+<a href="https://leetcode.com/u/Balwantkumaryadav/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode"/></a>
+</p>
+<h4 align="left"> 📩 Get in touch: <a href="mailto:balwant3111@gmail.com">balwant3111@gmail.com</a> </h4>
+
+
+
+
+
+
+
+![](https://komarev.com/ghpvc/?username=yadavbalwant&color=blue)
